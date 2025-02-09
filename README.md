@@ -49,7 +49,7 @@ GROUP BY Category;
 ### Results
 
 The analysis results are summarized as follows:
-- Accessories is the most frequently purchased by active subsribers.
+- Accessories is the most frequently purchased product by active subsribers.
 - The most frequently used payment method contributes the highest to total revenue is Credit Card.
 - Products that most purchased by women during winter is shirt, etc.
 
